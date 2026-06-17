@@ -11,6 +11,8 @@ Alex 的 Claude Code 个人技能集。通过 GitHub 统一管理，可安装到
 | `yiran-storyweaver` | 生成系列寓言故事（深度/通识/成长/童心/社会） | 纯指令 |
 | `yiran-story-review` | 自动审核、润色故事，最多 3 轮循环 | 纯指令 |
 | `yiran-wechat-prepare` | 改写公众号文章 + 生成配图 + 嵌入文章 | 纯指令 |
+| `yiran-illustrate` | 系列配图引擎（5 个 IP：小点/小芽/小林/小镜/小网） | 纯指令 |
+| `yiran-auto-pipeline` | 一条命令跑完全流程（生成→改写→配图→嵌入） | 纯指令 |
 
 ### 📦 更多分类（按需扩展）
 
